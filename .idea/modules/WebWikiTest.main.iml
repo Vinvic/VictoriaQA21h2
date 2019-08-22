@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="first_selenium_project:main" external.linked.project.path="$MODULE_DIR$/../../first_selenium_project" external.root.project.path="$MODULE_DIR$/../../first_selenium_project" external.system.id="GRADLE" external.system.module.group="TelRan" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="WebWikiTest:main" external.linked.project.path="$MODULE_DIR$/../../WebWikiTest" external.root.project.path="$MODULE_DIR$/../../WebWikiTest" external.system.id="GRADLE" external.system.module.group="TelRan" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../WebWikiTest" rootProjectPath="$MODULE_DIR$/../../WebWikiTest" />
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../first_selenium_project/build/classes/java/main" />
+    <output url="file://$MODULE_DIR$/../../WebWikiTest/build/classes/java/main" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../first_selenium_project/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../first_selenium_project/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../first_selenium_project/src/main/resources" type="java-resource" />
+    <content url="file://$MODULE_DIR$/../../WebWikiTest/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../WebWikiTest/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../WebWikiTest/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

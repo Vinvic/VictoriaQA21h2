@@ -6,6 +6,8 @@
       <module name="first_selenium_project.test" target="1.8" />
       <module name="TelRan.first_selenium_project.main" target="1.8" />
       <module name="TelRan.first_selenium_project.test" target="1.8" />
+      <module name="WebWikiTest.main" target="1.8" />
+      <module name="WebWikiTest.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
