@@ -1,17 +1,13 @@
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class WebSearchTest {
-    WebDriver driver ;
+public class WebSearchTest extends TestBaseWiki {
+
 
     @Test
 
-    public void WebSearchWikiTest() throws InterruptedException {
-        driver = new ChromeDriver();
-        // open site
-        driver.get("https://en.wikipedia.org");
+    public void WebSearchWikiTest() {
+
         // type java
         driver.findElement(By.name("search")).click();
         driver.findElement(By.name("search")).clear();
@@ -19,11 +15,8 @@ public class WebSearchTest {
         // start search
         driver.findElement(By.name("go")).click();
 
-      // pause
-        Thread.sleep(5000);
-
-
-        driver.quit();
 
     }
+
+
 }
